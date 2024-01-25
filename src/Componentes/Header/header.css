@@ -1,0 +1,42 @@
+.topnav { 
+    overflow: hidden;
+    background-color: #ffe23d;
+
+}
+
+.topnav a {
+    float: left;
+     display: block;
+     color: black;
+     text-align: center;
+     padding:  14px 16px;
+     text-decoration:  none;
+      font-size: 20px;
+}
+
+
+
+
+
+.topnav .poke [type=text] {
+    float:  right;
+     padding: 6px;
+     border: none;
+     border-radius: 5px;
+     border-color: #721919e8;
+     margin-top: 8px;
+     margin-right: 16px;
+     font-size: 20px;
+}
+
+
+@media screen and (max-width: 600px) {
+    .topnav a, .topnav  h1 {
+      float: none;
+      display: block;
+      text-align: left;
+      width: 100%;
+      margin: 0;
+      padding: 14px;
+    }
+}
