@@ -1,6 +1,6 @@
 import React from "react";
 import { createGlobalStyle } from "styled-components";
-import { AppRoutes } from "./Main/Rotas/route.js";
+import { AppRoutes } from "./Main/Rotas/route.jsx";
 
 function App() {
   return (

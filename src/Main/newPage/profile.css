@@ -8,7 +8,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-color: #414141f3;
+    background-color: #35353554;
 }
 
 .pokemon-name {
@@ -30,7 +30,7 @@
  p{
     font-size: 18px;
     font-weight: bold;
-    color: #9998ff;
+    color: #745b94f1;
     text-transform: capitalize;
 }
 
